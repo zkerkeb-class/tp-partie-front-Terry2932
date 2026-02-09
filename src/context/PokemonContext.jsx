@@ -11,7 +11,7 @@ export const PokemonProvider = ({ children }) => {
     const [loading, setLoading] = useState(true);
     const [searchTerm, setSearchTerm] = useState('');
 
-    const POKEMON_PER_PAGE = 30;
+    const POKEMON_PER_PAGE = 20;
 
     // Récupérer les pokemons depuis le backend local (par défaut backend sur le port 3000)
     const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3000';

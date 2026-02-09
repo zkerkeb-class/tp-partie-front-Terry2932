@@ -106,10 +106,20 @@ const PokeCard = ({ pokemon }) => {
     const attack = stats.Attack || stats.attack || 0;
     const defense = stats.Defense || stats.defense || 0;
     const weaknesses = getWeaknesses();
+    const cardStyle = {};
+
+    // Background image based on primary type
+    if (primaryType) {
+        const bgUrl = `/assets_type_nature/type_nature_${primaryType}.webp`;
+        cardStyle.backgroundImage = `url("${bgUrl}")`;
+        cardStyle.backgroundSize = "cover";
+        cardStyle.backgroundPosition = "center";
+        cardStyle.backgroundRepeat = "no-repeat";
+    }
 
     return (
         <div className={`poke-card-wrapper type-${primaryType} ${isShiny && primaryType !== 'bug' ? 'shiny' : ''}`} onClick={handleCardClick}>
-            <div className="poke-card-modern">
+            <div className="poke-card-modern" style={Object.keys(cardStyle).length ? cardStyle : undefined}>
                 <div className="card-glow"></div>
 
                 <div className="card-header-modern">
@@ -126,6 +136,7 @@ const PokeCard = ({ pokemon }) => {
                 <div className="pokedex-number">#{pokeState.id?.toString().padStart(3, '0') || '?'}</div>
 
                 <div className="image-section-modern">
+                    <div className="type-fx"></div>
                     {img && <img src={img} alt={displayName} className="pokemon-image-modern" />}
                     {!img && <div className="image-placeholder">No Image</div>}
                 </div>

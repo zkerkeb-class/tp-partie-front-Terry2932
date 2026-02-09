@@ -1,0 +1,5454 @@
+[
+  {
+    "pokedex_number": 1,
+    "name": {
+      "fr": "Bulbizarre",
+      "en": "Bulbasaur"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "001_Bulbizarre_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 2,
+    "name": {
+      "fr": "Herbizarre",
+      "en": "Ivysaur"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "002_Herbizarre_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 3,
+    "name": {
+      "fr": "Florizarre",
+      "en": "Venusaur"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "003_Florizarre_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 4,
+    "name": {
+      "fr": "Salamèche",
+      "en": "Charmander"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "004_Salameche_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 5,
+    "name": {
+      "fr": "Reptincel",
+      "en": "Charmeleon"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "005_Reptincel_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 6,
+    "name": {
+      "fr": "Dracaufeu",
+      "en": "Charizard"
+    },
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "type_keys": [
+      "fire",
+      "flying"
+    ],
+    "file": "006_Dracaufeu_fire-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 7,
+    "name": {
+      "fr": "Carapuce",
+      "en": "Squirtle"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "007_Carapuce_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 8,
+    "name": {
+      "fr": "Carabaffe",
+      "en": "Wartortle"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "008_Carabaffe_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 9,
+    "name": {
+      "fr": "Tortank",
+      "en": "Blastoise"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "009_Tortank_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 10,
+    "name": {
+      "fr": "Chenipan",
+      "en": "Caterpie"
+    },
+    "types": [
+      "Bug"
+    ],
+    "type_keys": [
+      "bug"
+    ],
+    "file": "010_Chenipan_bug.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 11,
+    "name": {
+      "fr": "Chrysacier",
+      "en": "Metapod"
+    },
+    "types": [
+      "Bug"
+    ],
+    "type_keys": [
+      "bug"
+    ],
+    "file": "011_Chrysacier_bug.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 12,
+    "name": {
+      "fr": "Papilusion",
+      "en": "Butterfree"
+    },
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "type_keys": [
+      "bug",
+      "flying"
+    ],
+    "file": "012_Papilusion_bug-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 13,
+    "name": {
+      "fr": "Aspicot",
+      "en": "Weedle"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "type_keys": [
+      "bug",
+      "poison"
+    ],
+    "file": "013_Aspicot_bug-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 14,
+    "name": {
+      "fr": "Coconfort",
+      "en": "Kakuna"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "type_keys": [
+      "bug",
+      "poison"
+    ],
+    "file": "014_Coconfort_bug-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 15,
+    "name": {
+      "fr": "Dardargnan",
+      "en": "Beedrill"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "type_keys": [
+      "bug",
+      "poison"
+    ],
+    "file": "015_Dardargnan_bug-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 16,
+    "name": {
+      "fr": "Roucool",
+      "en": "Pidgey"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "016_Roucool_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 17,
+    "name": {
+      "fr": "Roucoups",
+      "en": "Pidgeotto"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "017_Roucoups_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 18,
+    "name": {
+      "fr": "Roucarnage",
+      "en": "Pidgeot"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "018_Roucarnage_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 19,
+    "name": {
+      "fr": "Rattata",
+      "en": "Rattata"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "019_Rattata_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 20,
+    "name": {
+      "fr": "Rattatac",
+      "en": "Raticate"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "020_Rattatac_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 21,
+    "name": {
+      "fr": "Piafabec",
+      "en": "Spearow"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "021_Piafabec_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 22,
+    "name": {
+      "fr": "Rapasdepic",
+      "en": "Fearow"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "022_Rapasdepic_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 23,
+    "name": {
+      "fr": "Abo",
+      "en": "Ekans"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "023_Abo_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 24,
+    "name": {
+      "fr": "Arbok",
+      "en": "Arbok"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "024_Arbok_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 25,
+    "name": {
+      "fr": "Pikachu",
+      "en": "Pikachu"
+    },
+    "types": [
+      "Electric"
+    ],
+    "type_keys": [
+      "electric"
+    ],
+    "file": "025_Pikachu_electric.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 26,
+    "name": {
+      "fr": "Raichu",
+      "en": "Raichu"
+    },
+    "types": [
+      "Electric"
+    ],
+    "type_keys": [
+      "electric"
+    ],
+    "file": "026_Raichu_electric.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 27,
+    "name": {
+      "fr": "Sabelette",
+      "en": "Sandshrew"
+    },
+    "types": [
+      "Ground"
+    ],
+    "type_keys": [
+      "ground"
+    ],
+    "file": "027_Sabelette_ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 28,
+    "name": {
+      "fr": "Sablaireau",
+      "en": "Sandslash"
+    },
+    "types": [
+      "Ground"
+    ],
+    "type_keys": [
+      "ground"
+    ],
+    "file": "028_Sablaireau_ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 29,
+    "name": {
+      "fr": "Nidoran♀",
+      "en": "Nidoran♀"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "029_Nidoran_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 30,
+    "name": {
+      "fr": "Nidorina",
+      "en": "Nidorina"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "030_Nidorina_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 31,
+    "name": {
+      "fr": "Nidoqueen",
+      "en": "Nidoqueen"
+    },
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "type_keys": [
+      "poison",
+      "ground"
+    ],
+    "file": "031_Nidoqueen_poison-ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 32,
+    "name": {
+      "fr": "Nidoran♂",
+      "en": "Nidoran♂"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "032_Nidoran_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 33,
+    "name": {
+      "fr": "Nidorino",
+      "en": "Nidorino"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "033_Nidorino_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 34,
+    "name": {
+      "fr": "Nidoking",
+      "en": "Nidoking"
+    },
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "type_keys": [
+      "poison",
+      "ground"
+    ],
+    "file": "034_Nidoking_poison-ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 35,
+    "name": {
+      "fr": "Mélofée",
+      "en": "Clefairy"
+    },
+    "types": [
+      "Fairy"
+    ],
+    "type_keys": [
+      "fairy"
+    ],
+    "file": "035_Melofee_fairy.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF7BD4",
+      "secondary": "#7C1D5F",
+      "accent": "#B8F2FF",
+      "highlight": "#FFF0FB"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 36,
+    "name": {
+      "fr": "Mélodelfe",
+      "en": "Clefable"
+    },
+    "types": [
+      "Fairy"
+    ],
+    "type_keys": [
+      "fairy"
+    ],
+    "file": "036_Melodelfe_fairy.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF7BD4",
+      "secondary": "#7C1D5F",
+      "accent": "#B8F2FF",
+      "highlight": "#FFF0FB"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 37,
+    "name": {
+      "fr": "Goupix",
+      "en": "Vulpix"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "037_Goupix_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 38,
+    "name": {
+      "fr": "Feunard",
+      "en": "Ninetales"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "038_Feunard_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 39,
+    "name": {
+      "fr": "Rondoudou",
+      "en": "Jigglypuff"
+    },
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "type_keys": [
+      "normal",
+      "fairy"
+    ],
+    "file": "039_Rondoudou_normal-fairy.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#FF7BD4",
+      "secondary": "#7C1D5F",
+      "accent": "#B8F2FF",
+      "highlight": "#FFF0FB"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 40,
+    "name": {
+      "fr": "Grodoudou",
+      "en": "Wigglytuff"
+    },
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "type_keys": [
+      "normal",
+      "fairy"
+    ],
+    "file": "040_Grodoudou_normal-fairy.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#FF7BD4",
+      "secondary": "#7C1D5F",
+      "accent": "#B8F2FF",
+      "highlight": "#FFF0FB"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 41,
+    "name": {
+      "fr": "Nosferapti",
+      "en": "Zubat"
+    },
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "type_keys": [
+      "poison",
+      "flying"
+    ],
+    "file": "041_Nosferapti_poison-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 42,
+    "name": {
+      "fr": "Nosferalto",
+      "en": "Golbat"
+    },
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "type_keys": [
+      "poison",
+      "flying"
+    ],
+    "file": "042_Nosferalto_poison-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 43,
+    "name": {
+      "fr": "Mystherbe",
+      "en": "Oddish"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "043_Mystherbe_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 44,
+    "name": {
+      "fr": "Ortide",
+      "en": "Gloom"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "044_Ortide_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 45,
+    "name": {
+      "fr": "Rafflesia",
+      "en": "Vileplume"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "045_Rafflesia_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 46,
+    "name": {
+      "fr": "Paras",
+      "en": "Paras"
+    },
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "type_keys": [
+      "bug",
+      "grass"
+    ],
+    "file": "046_Paras_bug-grass.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 47,
+    "name": {
+      "fr": "Parasect",
+      "en": "Parasect"
+    },
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "type_keys": [
+      "bug",
+      "grass"
+    ],
+    "file": "047_Parasect_bug-grass.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 48,
+    "name": {
+      "fr": "Mimitoss",
+      "en": "Venonat"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "type_keys": [
+      "bug",
+      "poison"
+    ],
+    "file": "048_Mimitoss_bug-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 49,
+    "name": {
+      "fr": "Aéromite",
+      "en": "Venomoth"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "type_keys": [
+      "bug",
+      "poison"
+    ],
+    "file": "049_Aeromite_bug-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 50,
+    "name": {
+      "fr": "Taupiqueur",
+      "en": "Diglett"
+    },
+    "types": [
+      "Ground"
+    ],
+    "type_keys": [
+      "ground"
+    ],
+    "file": "050_Taupiqueur_ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 51,
+    "name": {
+      "fr": "Triopikeur",
+      "en": "Dugtrio"
+    },
+    "types": [
+      "Ground"
+    ],
+    "type_keys": [
+      "ground"
+    ],
+    "file": "051_Triopikeur_ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 52,
+    "name": {
+      "fr": "Miaouss",
+      "en": "Meowth"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "052_Miaouss_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 53,
+    "name": {
+      "fr": "Persian",
+      "en": "Persian"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "053_Persian_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 54,
+    "name": {
+      "fr": "Psykokwak",
+      "en": "Psyduck"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "054_Psykokwak_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 55,
+    "name": {
+      "fr": "Akwakwak",
+      "en": "Golduck"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "055_Akwakwak_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 56,
+    "name": {
+      "fr": "Férosinge",
+      "en": "Mankey"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "056_Ferosinge_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 57,
+    "name": {
+      "fr": "Colossinge",
+      "en": "Primeape"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "057_Colossinge_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 58,
+    "name": {
+      "fr": "Caninos",
+      "en": "Growlithe"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "058_Caninos_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 59,
+    "name": {
+      "fr": "Arcanin",
+      "en": "Arcanine"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "059_Arcanin_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 60,
+    "name": {
+      "fr": "Ptitard",
+      "en": "Poliwag"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "060_Ptitard_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 61,
+    "name": {
+      "fr": "Têtarte",
+      "en": "Poliwhirl"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "061_Tetarte_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 62,
+    "name": {
+      "fr": "Tartard",
+      "en": "Poliwrath"
+    },
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "type_keys": [
+      "water",
+      "fighting"
+    ],
+    "file": "062_Tartard_water-fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 63,
+    "name": {
+      "fr": "Abra",
+      "en": "Abra"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "063_Abra_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 64,
+    "name": {
+      "fr": "Kadabra",
+      "en": "Kadabra"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "064_Kadabra_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 65,
+    "name": {
+      "fr": "Alakazam",
+      "en": "Alakazam"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "065_Alakazam_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 66,
+    "name": {
+      "fr": "Machoc",
+      "en": "Machop"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "066_Machoc_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 67,
+    "name": {
+      "fr": "Machopeur",
+      "en": "Machoke"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "067_Machopeur_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 68,
+    "name": {
+      "fr": "Mackogneur",
+      "en": "Machamp"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "068_Mackogneur_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 69,
+    "name": {
+      "fr": "Chétiflor",
+      "en": "Bellsprout"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "069_Chetiflor_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 70,
+    "name": {
+      "fr": "Boustiflor",
+      "en": "Weepinbell"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "070_Boustiflor_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 71,
+    "name": {
+      "fr": "Empiflor",
+      "en": "Victreebel"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "type_keys": [
+      "grass",
+      "poison"
+    ],
+    "file": "071_Empiflor_grass-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 72,
+    "name": {
+      "fr": "Tentacool",
+      "en": "Tentacool"
+    },
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "type_keys": [
+      "water",
+      "poison"
+    ],
+    "file": "072_Tentacool_water-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 73,
+    "name": {
+      "fr": "Tentacruel",
+      "en": "Tentacruel"
+    },
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "type_keys": [
+      "water",
+      "poison"
+    ],
+    "file": "073_Tentacruel_water-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 74,
+    "name": {
+      "fr": "Racaillou",
+      "en": "Geodude"
+    },
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "type_keys": [
+      "rock",
+      "ground"
+    ],
+    "file": "074_Racaillou_rock-ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 75,
+    "name": {
+      "fr": "Gravalanch",
+      "en": "Graveler"
+    },
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "type_keys": [
+      "rock",
+      "ground"
+    ],
+    "file": "075_Gravalanch_rock-ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 76,
+    "name": {
+      "fr": "Grolem",
+      "en": "Golem"
+    },
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "type_keys": [
+      "rock",
+      "ground"
+    ],
+    "file": "076_Grolem_rock-ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 77,
+    "name": {
+      "fr": "Ponyta",
+      "en": "Ponyta"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "077_Ponyta_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 78,
+    "name": {
+      "fr": "Galopa",
+      "en": "Rapidash"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "078_Galopa_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 79,
+    "name": {
+      "fr": "Ramoloss",
+      "en": "Slowpoke"
+    },
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "type_keys": [
+      "water",
+      "psychic"
+    ],
+    "file": "079_Ramoloss_water-psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 80,
+    "name": {
+      "fr": "Flagadoss",
+      "en": "Slowbro"
+    },
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "type_keys": [
+      "water",
+      "psychic"
+    ],
+    "file": "080_Flagadoss_water-psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 81,
+    "name": {
+      "fr": "Magnéti",
+      "en": "Magnemite"
+    },
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "type_keys": [
+      "electric",
+      "steel"
+    ],
+    "file": "081_Magneti_electric-steel.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": {
+      "primary": "#94A3B8",
+      "secondary": "#0F172A",
+      "accent": "#E2E8F0",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 82,
+    "name": {
+      "fr": "Magnéton",
+      "en": "Magneton"
+    },
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "type_keys": [
+      "electric",
+      "steel"
+    ],
+    "file": "082_Magneton_electric-steel.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": {
+      "primary": "#94A3B8",
+      "secondary": "#0F172A",
+      "accent": "#E2E8F0",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 83,
+    "name": {
+      "fr": "Canarticho",
+      "en": "Farfetch'd"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "083_Canarticho_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 84,
+    "name": {
+      "fr": "Doduo",
+      "en": "Doduo"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "084_Doduo_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 85,
+    "name": {
+      "fr": "Dodrio",
+      "en": "Dodrio"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "type_keys": [
+      "normal",
+      "flying"
+    ],
+    "file": "085_Dodrio_normal-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 86,
+    "name": {
+      "fr": "Otaria",
+      "en": "Seel"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "086_Otaria_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 87,
+    "name": {
+      "fr": "Lamantine",
+      "en": "Dewgong"
+    },
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "type_keys": [
+      "water",
+      "ice"
+    ],
+    "file": "087_Lamantine_water-ice.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#7EEBFF",
+      "secondary": "#0B3C5D",
+      "accent": "#D8F9FF",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 88,
+    "name": {
+      "fr": "Tadmorv",
+      "en": "Grimer"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "088_Tadmorv_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 89,
+    "name": {
+      "fr": "Grotadmorv",
+      "en": "Muk"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "089_Grotadmorv_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 90,
+    "name": {
+      "fr": "Kokiyas",
+      "en": "Shellder"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "090_Kokiyas_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 91,
+    "name": {
+      "fr": "Crustabri",
+      "en": "Cloyster"
+    },
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "type_keys": [
+      "water",
+      "ice"
+    ],
+    "file": "091_Crustabri_water-ice.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#7EEBFF",
+      "secondary": "#0B3C5D",
+      "accent": "#D8F9FF",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 92,
+    "name": {
+      "fr": "Fantominus",
+      "en": "Gastly"
+    },
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "type_keys": [
+      "ghost",
+      "poison"
+    ],
+    "file": "092_Fantominus_ghost-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#6D28D9",
+      "secondary": "#0B1026",
+      "accent": "#22D3EE",
+      "highlight": "#EDE9FE"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 93,
+    "name": {
+      "fr": "Spectrum",
+      "en": "Haunter"
+    },
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "type_keys": [
+      "ghost",
+      "poison"
+    ],
+    "file": "093_Spectrum_ghost-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#6D28D9",
+      "secondary": "#0B1026",
+      "accent": "#22D3EE",
+      "highlight": "#EDE9FE"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 94,
+    "name": {
+      "fr": "Ectoplasma",
+      "en": "Gengar"
+    },
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "type_keys": [
+      "ghost",
+      "poison"
+    ],
+    "file": "094_Ectoplasma_ghost-poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#6D28D9",
+      "secondary": "#0B1026",
+      "accent": "#22D3EE",
+      "highlight": "#EDE9FE"
+    },
+    "palette_secondary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 95,
+    "name": {
+      "fr": "Onix",
+      "en": "Onix"
+    },
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "type_keys": [
+      "rock",
+      "ground"
+    ],
+    "file": "095_Onix_rock-ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 96,
+    "name": {
+      "fr": "Soporifik",
+      "en": "Drowzee"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "096_Soporifik_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 97,
+    "name": {
+      "fr": "Hypnomade",
+      "en": "Hypno"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "097_Hypnomade_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 98,
+    "name": {
+      "fr": "Krabby",
+      "en": "Krabby"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "098_Krabby_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 99,
+    "name": {
+      "fr": "Krabboss",
+      "en": "Kingler"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "099_Krabboss_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 100,
+    "name": {
+      "fr": "Voltorbe",
+      "en": "Voltorb"
+    },
+    "types": [
+      "Electric"
+    ],
+    "type_keys": [
+      "electric"
+    ],
+    "file": "100_Voltorbe_electric.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 101,
+    "name": {
+      "fr": "Électrode",
+      "en": "Electrode"
+    },
+    "types": [
+      "Electric"
+    ],
+    "type_keys": [
+      "electric"
+    ],
+    "file": "101_Electrode_electric.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 102,
+    "name": {
+      "fr": "Noeunoeuf",
+      "en": "Exeggcute"
+    },
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "type_keys": [
+      "grass",
+      "psychic"
+    ],
+    "file": "102_Noeunoeuf_grass-psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 103,
+    "name": {
+      "fr": "Noadkoko",
+      "en": "Exeggutor"
+    },
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "type_keys": [
+      "grass",
+      "psychic"
+    ],
+    "file": "103_Noadkoko_grass-psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 104,
+    "name": {
+      "fr": "Osselait",
+      "en": "Cubone"
+    },
+    "types": [
+      "Ground"
+    ],
+    "type_keys": [
+      "ground"
+    ],
+    "file": "104_Osselait_ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 105,
+    "name": {
+      "fr": "Ossatueur",
+      "en": "Marowak"
+    },
+    "types": [
+      "Ground"
+    ],
+    "type_keys": [
+      "ground"
+    ],
+    "file": "105_Ossatueur_ground.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 106,
+    "name": {
+      "fr": "Kicklee",
+      "en": "Hitmonlee"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "106_Kicklee_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 107,
+    "name": {
+      "fr": "Tygnon",
+      "en": "Hitmonchan"
+    },
+    "types": [
+      "Fighting"
+    ],
+    "type_keys": [
+      "fighting"
+    ],
+    "file": "107_Tygnon_fighting.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3B30",
+      "secondary": "#5C0D0A",
+      "accent": "#FFB3A6",
+      "highlight": "#FFF0EC"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 108,
+    "name": {
+      "fr": "Excelangue",
+      "en": "Lickitung"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "108_Excelangue_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 109,
+    "name": {
+      "fr": "Smogo",
+      "en": "Koffing"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "109_Smogo_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 110,
+    "name": {
+      "fr": "Smogogo",
+      "en": "Weezing"
+    },
+    "types": [
+      "Poison"
+    ],
+    "type_keys": [
+      "poison"
+    ],
+    "file": "110_Smogogo_poison.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#9B4DFF",
+      "secondary": "#2A0D5E",
+      "accent": "#FF5AD9",
+      "highlight": "#F6E9FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 111,
+    "name": {
+      "fr": "Rhinocorne",
+      "en": "Rhyhorn"
+    },
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "type_keys": [
+      "ground",
+      "rock"
+    ],
+    "file": "111_Rhinocorne_ground-rock.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 112,
+    "name": {
+      "fr": "Rhinoféros",
+      "en": "Rhydon"
+    },
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "type_keys": [
+      "ground",
+      "rock"
+    ],
+    "file": "112_Rhinoferos_ground-rock.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C68642",
+      "secondary": "#4B2E14",
+      "accent": "#F2D16B",
+      "highlight": "#FFF6E3"
+    },
+    "palette_secondary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 113,
+    "name": {
+      "fr": "Leveinard",
+      "en": "Chansey"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "113_Leveinard_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 114,
+    "name": {
+      "fr": "Saquedeneu",
+      "en": "Tangela"
+    },
+    "types": [
+      "Grass"
+    ],
+    "type_keys": [
+      "grass"
+    ],
+    "file": "114_Saquedeneu_grass.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2ECC71",
+      "secondary": "#0B5D2A",
+      "accent": "#A8FF6A",
+      "highlight": "#EFFFF1"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 115,
+    "name": {
+      "fr": "Kangourex",
+      "en": "Kangaskhan"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "115_Kangourex_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 116,
+    "name": {
+      "fr": "Hypotrempe",
+      "en": "Horsea"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "116_Hypotrempe_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 117,
+    "name": {
+      "fr": "Hypocéan",
+      "en": "Seadra"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "117_Hypocean_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 118,
+    "name": {
+      "fr": "Poissirène",
+      "en": "Goldeen"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "118_Poissirene_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 119,
+    "name": {
+      "fr": "Poissoroy",
+      "en": "Seaking"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "119_Poissoroy_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 120,
+    "name": {
+      "fr": "Stari",
+      "en": "Staryu"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "120_Stari_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 121,
+    "name": {
+      "fr": "Staross",
+      "en": "Starmie"
+    },
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "type_keys": [
+      "water",
+      "psychic"
+    ],
+    "file": "121_Staross_water-psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 122,
+    "name": {
+      "fr": "M. Mime",
+      "en": "Mr. Mime"
+    },
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "type_keys": [
+      "psychic",
+      "fairy"
+    ],
+    "file": "122_M_Mime_psychic-fairy.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": {
+      "primary": "#FF7BD4",
+      "secondary": "#7C1D5F",
+      "accent": "#B8F2FF",
+      "highlight": "#FFF0FB"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 123,
+    "name": {
+      "fr": "Insécateur",
+      "en": "Scyther"
+    },
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "type_keys": [
+      "bug",
+      "flying"
+    ],
+    "file": "123_Insecateur_bug-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 124,
+    "name": {
+      "fr": "Lippoutou",
+      "en": "Jynx"
+    },
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "type_keys": [
+      "ice",
+      "psychic"
+    ],
+    "file": "124_Lippoutou_ice-psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#7EEBFF",
+      "secondary": "#0B3C5D",
+      "accent": "#D8F9FF",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 125,
+    "name": {
+      "fr": "Élektek",
+      "en": "Electabuzz"
+    },
+    "types": [
+      "Electric"
+    ],
+    "type_keys": [
+      "electric"
+    ],
+    "file": "125_Elektek_electric.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 126,
+    "name": {
+      "fr": "Magmar",
+      "en": "Magmar"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "126_Magmar_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 127,
+    "name": {
+      "fr": "Scarabrute",
+      "en": "Pinsir"
+    },
+    "types": [
+      "Bug"
+    ],
+    "type_keys": [
+      "bug"
+    ],
+    "file": "127_Scarabrute_bug.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B6E43A",
+      "secondary": "#2C3E0A",
+      "accent": "#7CFFB2",
+      "highlight": "#F6FFE0"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 128,
+    "name": {
+      "fr": "Tauros",
+      "en": "Tauros"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "128_Tauros_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 129,
+    "name": {
+      "fr": "Magicarpe",
+      "en": "Magikarp"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "129_Magicarpe_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 130,
+    "name": {
+      "fr": "Léviator",
+      "en": "Gyarados"
+    },
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "type_keys": [
+      "water",
+      "flying"
+    ],
+    "file": "130_Leviator_water-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 131,
+    "name": {
+      "fr": "Lokhlass",
+      "en": "Lapras"
+    },
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "type_keys": [
+      "water",
+      "ice"
+    ],
+    "file": "131_Lokhlass_water-ice.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": {
+      "primary": "#7EEBFF",
+      "secondary": "#0B3C5D",
+      "accent": "#D8F9FF",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 132,
+    "name": {
+      "fr": "Métamorph",
+      "en": "Ditto"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "132_Metamorph_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 133,
+    "name": {
+      "fr": "Évoli",
+      "en": "Eevee"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "133_Evoli_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 134,
+    "name": {
+      "fr": "Aquali",
+      "en": "Vaporeon"
+    },
+    "types": [
+      "Water"
+    ],
+    "type_keys": [
+      "water"
+    ],
+    "file": "134_Aquali_water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 135,
+    "name": {
+      "fr": "Voltali",
+      "en": "Jolteon"
+    },
+    "types": [
+      "Electric"
+    ],
+    "type_keys": [
+      "electric"
+    ],
+    "file": "135_Voltali_electric.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 136,
+    "name": {
+      "fr": "Pyroli",
+      "en": "Flareon"
+    },
+    "types": [
+      "Fire"
+    ],
+    "type_keys": [
+      "fire"
+    ],
+    "file": "136_Pyroli_fire.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 137,
+    "name": {
+      "fr": "Porygon",
+      "en": "Porygon"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "137_Porygon_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 138,
+    "name": {
+      "fr": "Amonita",
+      "en": "Omanyte"
+    },
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "type_keys": [
+      "rock",
+      "water"
+    ],
+    "file": "138_Amonita_rock-water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 139,
+    "name": {
+      "fr": "Amonistar",
+      "en": "Omastar"
+    },
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "type_keys": [
+      "rock",
+      "water"
+    ],
+    "file": "139_Amonistar_rock-water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 140,
+    "name": {
+      "fr": "Kabuto",
+      "en": "Kabuto"
+    },
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "type_keys": [
+      "rock",
+      "water"
+    ],
+    "file": "140_Kabuto_rock-water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 141,
+    "name": {
+      "fr": "Kabutops",
+      "en": "Kabutops"
+    },
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "type_keys": [
+      "rock",
+      "water"
+    ],
+    "file": "141_Kabutops_rock-water.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#1F7AFF",
+      "secondary": "#0A2C6B",
+      "accent": "#45E6FF",
+      "highlight": "#E6FBFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 142,
+    "name": {
+      "fr": "Ptéra",
+      "en": "Aerodactyl"
+    },
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "type_keys": [
+      "rock",
+      "flying"
+    ],
+    "file": "142_Ptera_rock-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#B89B7E",
+      "secondary": "#3D2B1F",
+      "accent": "#F2E3D5",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 143,
+    "name": {
+      "fr": "Ronflex",
+      "en": "Snorlax"
+    },
+    "types": [
+      "Normal"
+    ],
+    "type_keys": [
+      "normal"
+    ],
+    "file": "143_Ronflex_normal.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#C9C2B8",
+      "secondary": "#8E8A82",
+      "accent": "#F4F1EA",
+      "highlight": "#4D4A45"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 144,
+    "name": {
+      "fr": "Artikodin",
+      "en": "Articuno"
+    },
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "type_keys": [
+      "ice",
+      "flying"
+    ],
+    "file": "144_Artikodin_ice-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#7EEBFF",
+      "secondary": "#0B3C5D",
+      "accent": "#D8F9FF",
+      "highlight": "#FFFFFF"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#0B0B0B",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 145,
+    "name": {
+      "fr": "Électhor",
+      "en": "Zapdos"
+    },
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "type_keys": [
+      "electric",
+      "flying"
+    ],
+    "file": "145_Electhor_electric-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FFD60A",
+      "secondary": "#6A4C00",
+      "accent": "#6FFFE9",
+      "highlight": "#FFF6C7"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 146,
+    "name": {
+      "fr": "Sulfura",
+      "en": "Moltres"
+    },
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "type_keys": [
+      "fire",
+      "flying"
+    ],
+    "file": "146_Sulfura_fire-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF5A1F",
+      "secondary": "#8C1D18",
+      "accent": "#FFC24A",
+      "highlight": "#FFF2D6"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 147,
+    "name": {
+      "fr": "Minidraco",
+      "en": "Dratini"
+    },
+    "types": [
+      "Dragon"
+    ],
+    "type_keys": [
+      "dragon"
+    ],
+    "file": "147_Minidraco_dragon.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2563EB",
+      "secondary": "#7C2D12",
+      "accent": "#A855F7",
+      "highlight": "#F5F3FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 148,
+    "name": {
+      "fr": "Draco",
+      "en": "Dragonair"
+    },
+    "types": [
+      "Dragon"
+    ],
+    "type_keys": [
+      "dragon"
+    ],
+    "file": "148_Draco_dragon.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2563EB",
+      "secondary": "#7C2D12",
+      "accent": "#A855F7",
+      "highlight": "#F5F3FF"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 149,
+    "name": {
+      "fr": "Dracolosse",
+      "en": "Dragonite"
+    },
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "type_keys": [
+      "dragon",
+      "flying"
+    ],
+    "file": "149_Dracolosse_dragon-flying.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#2563EB",
+      "secondary": "#7C2D12",
+      "accent": "#A855F7",
+      "highlight": "#F5F3FF"
+    },
+    "palette_secondary": {
+      "primary": "#7DD3FC",
+      "secondary": "#1E3A8A",
+      "accent": "#E0F2FE",
+      "highlight": "#FFFFFF"
+    },
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 150,
+    "name": {
+      "fr": "Mewtwo",
+      "en": "Mewtwo"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "150_Mewtwo_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  },
+  {
+    "pokedex_number": 151,
+    "name": {
+      "fr": "Mew",
+      "en": "Mew"
+    },
+    "types": [
+      "Psychic"
+    ],
+    "type_keys": [
+      "psychic"
+    ],
+    "file": "151_Mew_psychic.png",
+    "size_px": [
+      1024,
+      1536
+    ],
+    "palette_primary": {
+      "primary": "#FF3EA5",
+      "secondary": "#3B0A45",
+      "accent": "#7C3AED",
+      "highlight": "#FFE6FA"
+    },
+    "palette_secondary": null,
+    "suggested_text": "#F9FAFB",
+    "safe_area": {
+      "x": 80,
+      "y": 160,
+      "w": 864,
+      "h": 980
+    },
+    "notes": "Arrière-plan abstrait (sans artwork officiel), optimisé pour superposer le visuel du Pokémon, nom, PV, etc."
+  }
+]

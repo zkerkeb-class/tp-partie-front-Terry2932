@@ -3,6 +3,20 @@ import { usePokemon } from "../../hooks/usePokemon";
 import DeleteModal from "../deleteModal";
 import "./pokedetails.css";
 
+const POKEMON_TYPES = [
+    'normal', 'fire', 'water', 'grass', 'electric', 'ice',
+    'fighting', 'poison', 'ground', 'flying', 'psychic', 'bug',
+    'rock', 'ghost', 'dragon', 'dark', 'steel', 'fairy'
+];
+
+const TYPE_COLORS = {
+    normal: '#a8a878', fire: '#f08030', water: '#6890f0', grass: '#78c850',
+    electric: '#f8d030', ice: '#98d8d8', fighting: '#c03028', poison: '#a040a0',
+    ground: '#e0c068', flying: '#a890f0', psychic: '#f85888', bug: '#a8b820',
+    rock: '#b8a038', ghost: '#705898', dragon: '#7038f8', dark: '#705848',
+    steel: '#b8b8d0', fairy: '#ee99ac'
+};
+
 const PokeDetails = () => {
     const {
         selectedPokemon,
@@ -14,6 +28,7 @@ const PokeDetails = () => {
     const [fullData, setFullData] = useState({});
     const [isEditing, setIsEditing] = useState(false);
     const [editedData, setEditedData] = useState({});
+    const [editedTypes, setEditedTypes] = useState([]);
     const [showDeleteModal, setShowDeleteModal] = useState(false);
     const [playingSound, setPlayingSound] = useState(false);
 
@@ -21,6 +36,19 @@ const PokeDetails = () => {
         if (!selectedPokemon) return;
         setFullData(selectedPokemon);
         setEditedData(selectedPokemon);
+        // Init editedTypes from pokemon data
+        const types = [];
+        if (Array.isArray(selectedPokemon.type)) {
+            types.push(...selectedPokemon.type.map(t => t.toLowerCase()));
+        } else if (typeof selectedPokemon.type === 'string') {
+            types.push(selectedPokemon.type.toLowerCase());
+        } else if (selectedPokemon.types && Array.isArray(selectedPokemon.types)) {
+            selectedPokemon.types.forEach(t => {
+                const name = typeof t === 'string' ? t : (t.type?.name || t.type || '');
+                if (name) types.push(name.toLowerCase());
+            });
+        }
+        setEditedTypes(types);
     }, [selectedPokemon]);
 
     const playPokemonSound = () => {
@@ -48,8 +76,17 @@ const PokeDetails = () => {
         setEditedData({ ...editedData, [name]: value });
     };
 
+    const toggleEditType = (type) => {
+        setEditedTypes(prev => {
+            if (prev.includes(type)) return prev.filter(t => t !== type);
+            if (prev.length >= 2) return prev;
+            return [...prev, type];
+        });
+    };
+
     const handleSaveChanges = () => {
-        updatePokemon(editedData);
+        const updated = { ...editedData, type: editedTypes };
+        updatePokemon(updated);
         setIsEditing(false);
     };
 
@@ -197,36 +234,58 @@ const PokeDetails = () => {
                 ) : (
                     <div className="edit-form">
                         <h2>Modifier le Pokémon</h2>
-                        <div className="form-row">
-                            <div className="form-group">
-                                <label>Nom (Français):</label>
-                                <input
-                                    type="text"
-                                    name="name"
-                                    value={typeof editedData.name === 'string' ? editedData.name : (editedData.name?.french || '')}
-                                    onChange={(e) => {
-                                        const newName = typeof editedData.name === 'object' 
-                                            ? { ...editedData.name, french: e.target.value }
-                                            : e.target.value;
-                                        setEditedData({ ...editedData, name: newName });
-                                    }}
-                                />
-                            </div>
-                            <div className="form-group">
-                                <label>Type(s) (séparés par des virgules):</label>
-                                <input
-                                    type="text"
-                                    name="type"
-                                    value={Array.isArray(editedData.type) ? editedData.type.join(', ') : (editedData.type || '')}
-                                    onChange={(e) => setEditedData({ ...editedData, type: e.target.value.split(',').map(t => t.trim()) })}
-                                    placeholder="Ex: Grass, Poison"
-                                />
-                            </div>
-                        </div>
-                        
+
                         <div className="form-group">
-                            <label>URL Image:</label>
+                            <label htmlFor="edit-name">Nom du Pokémon</label>
                             <input
+                                id="edit-name"
+                                type="text"
+                                name="name"
+                                value={typeof editedData.name === 'string' ? editedData.name : (editedData.name?.french || '')}
+                                onChange={(e) => {
+                                    const newName = typeof editedData.name === 'object' 
+                                        ? { ...editedData.name, french: e.target.value }
+                                        : e.target.value;
+                                    setEditedData({ ...editedData, name: newName });
+                                }}
+                                placeholder="Ex: Pikachu"
+                            />
+                        </div>
+
+                        <div className="form-group">
+                            <label>Type(s) <span className="type-hint">(max 2)</span></label>
+                            <div className="type-selector-grid">
+                                {POKEMON_TYPES.map(type => (
+                                    <button
+                                        key={type}
+                                        type="button"
+                                        className={`type-select-btn ${editedTypes.includes(type) ? 'selected' : ''}`}
+                                        style={{
+                                            '--type-color': TYPE_COLORS[type],
+                                            background: editedTypes.includes(type) ? TYPE_COLORS[type] : 'transparent'
+                                        }}
+                                        onClick={() => toggleEditType(type)}
+                                    >
+                                        {type.charAt(0).toUpperCase() + type.slice(1)}
+                                    </button>
+                                ))}
+                            </div>
+                            {editedTypes.length > 0 && (
+                                <div className="selected-types-display">
+                                    {editedTypes.map(t => (
+                                        <span key={t} className="selected-type-tag" style={{ background: TYPE_COLORS[t] }}>
+                                            {t.charAt(0).toUpperCase() + t.slice(1)}
+                                            <button type="button" onClick={() => toggleEditType(t)} className="remove-type">×</button>
+                                        </span>
+                                    ))}
+                                </div>
+                            )}
+                        </div>
+
+                        <div className="form-group">
+                            <label htmlFor="edit-image">URL Image</label>
+                            <input
+                                id="edit-image"
                                 type="text"
                                 name="image"
                                 value={editedData.image || ""}
@@ -239,17 +298,33 @@ const PokeDetails = () => {
                         <div className="stats-edit-grid">
                             {['HP', 'Attack', 'Defense', 'SpecialAttack', 'SpecialDefense', 'Speed'].map(stat => (
                                 <div className="form-group" key={stat}>
-                                    <label>{stat}:</label>
-                                    <input
-                                        type="number"
-                                        min="1"
-                                        max="255"
-                                        value={editedData.base?.[stat] || 0}
-                                        onChange={(e) => {
-                                            const newBase = { ...(editedData.base || {}), [stat]: parseInt(e.target.value) || 0 };
-                                            setEditedData({ ...editedData, base: newBase });
-                                        }}
-                                    />
+                                    <label htmlFor={`edit-${stat}`}>{stat}:</label>
+                                    <div className="stat-input-wrapper">
+                                        <input
+                                            id={`edit-${stat}`}
+                                            type="number"
+                                            min="1"
+                                            max="255"
+                                            value={editedData.base?.[stat] || 0}
+                                            onChange={(e) => {
+                                                const newBase = { ...(editedData.base || {}), [stat]: parseInt(e.target.value) || 0 };
+                                                setEditedData({ ...editedData, base: newBase });
+                                            }}
+                                        />
+                                        <div className="stat-slider">
+                                            <input
+                                                type="range"
+                                                min="1"
+                                                max="255"
+                                                value={editedData.base?.[stat] || 0}
+                                                onChange={(e) => {
+                                                    const newBase = { ...(editedData.base || {}), [stat]: parseInt(e.target.value) || 0 };
+                                                    setEditedData({ ...editedData, base: newBase });
+                                                }}
+                                                className="slider"
+                                            />
+                                        </div>
+                                    </div>
                                 </div>
                             ))}
                         </div>
@@ -261,6 +336,17 @@ const PokeDetails = () => {
                             <button className="btn-cancel" onClick={() => {
                                 setIsEditing(false);
                                 setEditedData(fullData);
+                                // Reset types too
+                                const types = [];
+                                if (Array.isArray(fullData.type)) types.push(...fullData.type.map(t => t.toLowerCase()));
+                                else if (typeof fullData.type === 'string') types.push(fullData.type.toLowerCase());
+                                else if (fullData.types && Array.isArray(fullData.types)) {
+                                    fullData.types.forEach(t => {
+                                        const name = typeof t === 'string' ? t : (t.type?.name || t.type || '');
+                                        if (name) types.push(name.toLowerCase());
+                                    });
+                                }
+                                setEditedTypes(types);
                             }}>
                                 ✕ Annuler
                             </button>
