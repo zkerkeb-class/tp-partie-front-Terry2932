@@ -1,0 +1,144 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.modal-content {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    width: 90%;
+    animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.modal-header {
+    padding: 25px 25px 15px 25px;
+    border-bottom: 2px solid #f44336;
+}
+
+.modal-header h2 {
+    margin: 0;
+    color: #f44336;
+    font-size: 1.5rem;
+}
+
+.modal-body {
+    padding: 25px;
+}
+
+.modal-body p {
+    margin: 0 0 15px 0;
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.modal-body p strong {
+    color: #f44336;
+    text-transform: capitalize;
+}
+
+.warning-text {
+    background-color: #ffebee;
+    padding: 12px 15px;
+    border-radius: 6px;
+    border-left: 4px solid #f44336;
+    color: #c62828;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.modal-footer {
+    padding: 15px 25px 25px 25px;
+    display: flex;
+    gap: 12px;
+}
+
+.btn-confirm-delete,
+.btn-keep {
+    flex: 1;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.btn-confirm-delete {
+    background-color: #f44336;
+    color: white;
+}
+
+.btn-confirm-delete:hover {
+    background-color: #da190b;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(244, 67, 54, 0.3);
+}
+
+.btn-keep {
+    background-color: #2196F3;
+    color: white;
+}
+
+.btn-keep:hover {
+    background-color: #0b7dda;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+}
+
+@media (max-width: 480px) {
+    .modal-content {
+        width: 95%;
+    }
+
+    .modal-header,
+    .modal-body,
+    .modal-footer {
+        padding: 20px;
+    }
+
+    .modal-header h2 {
+        font-size: 1.2rem;
+    }
+
+    .modal-footer {
+        flex-direction: column;
+    }
+
+    .btn-confirm-delete,
+    .btn-keep {
+        width: 100%;
+    }
+}
